@@ -1,5 +1,6 @@
 # python-website
 This is a short example on how you can use Python to create a simple HTTP Web Server.
+
 It uses Flask which is a light weight library for building web applications.
 
 When this example is running, you can open a Web Browser and point it to port 5000 on your machine, e.g.
